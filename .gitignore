@@ -1,0 +1,20 @@
+# Leave entire .ipython checkpoint folder
+*/.ipynb*
+*Untitled*
+*/dataSink/*
+*/.idea*
+*/app-logs*
+*__pycache__*
+*/chk-point-dir*
+
+*.crc
+*/*/_SUCCESS
+
+README.md
+LICENSE
+etl-engineer/
+FreeNow_RnDCode.py
+Misc/
+GitTest/
+01_Practise_FlightTrip/
+02_Practise_ProductSales/

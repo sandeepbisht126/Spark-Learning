@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/01Practise_FlightTrip" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/01_Practise_FlightTrip" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/02_Practise_ProductSales" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Practise01_FlightTrip" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/etl-engineer/etl-engineer-test" vcs="Git" />
+  </component>
+</project>
